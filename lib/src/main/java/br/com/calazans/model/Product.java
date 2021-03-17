@@ -1,4 +1,4 @@
-package demo;
+package br.com.calazans.model;
 
 import lombok.Data;
 
